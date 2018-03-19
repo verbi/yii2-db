@@ -1,0 +1,23 @@
+{
+	"name": "verbi/yii2-db",
+	"description": "Yii2 DB Extension.",
+	"keywords": ["yii2", "extension", "db"],
+	"type": "yii2-extension",
+	"license": "GPLv3",
+	"authors": [
+		{
+			"name": "Philip Verbist",
+			"email": "philip.verbist@gmail.com"
+		}
+	],
+	"support": {
+		"source": "https://github.com/verbi/yii2-db"
+	},
+        "require": {
+        },
+	"autoload": {
+		"psr-4": {
+			"verbi\\yii2Db\\": "src/"
+		}
+	}
+}

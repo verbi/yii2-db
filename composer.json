@@ -17,7 +17,7 @@
         },
 	"autoload": {
 		"psr-4": {
-			"verbi\\yii2Db\\": "src/"
+			"verbi\\Yii2Db\\": "src/"
 		}
 	}
 }
